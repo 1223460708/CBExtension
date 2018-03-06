@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CBExtension"
-  s.version      = "1"
+  s.version      = "1.1"
   s.summary      = "CBExtension."
 
   # This description is used to generate tags and improve search results.
